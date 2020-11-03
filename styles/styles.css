@@ -1,0 +1,53 @@
+body {
+    background: url('../images/osen.jpg');
+    padding-top: 10px;
+}
+
+.blok {
+    background: rgb(103, 105, 107);
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    font-size: 30px;
+}
+
+a {
+    color: black;
+}
+
+ul {
+    background: rgb(104, 141, 104);
+    list-style-type: none;
+    border: 2px solid grey;
+    font-size: 20px;
+    float: left;
+    width: 10%;
+    margin: 0;
+    height: 300px;
+}
+
+.ruru {
+    text-align: center;
+    width: 75%;
+    border: 2px solid black;
+    font-size: 28px;
+    display: inline-block;
+    background: rgb(230, 208, 113);
+    height: 780px;
+}
+
+.ruru2 {
+    background: rgb(104, 141, 104);
+    border: 2px solid grey;
+    font-size: 20px;
+    float: right;
+    width: 10%;
+    padding-right: 42px;
+    height: 300px;
+}
+
+.ruru3 {
+    text-align: center;
+    border: 1px solid black;
+    background: grey;
+}
