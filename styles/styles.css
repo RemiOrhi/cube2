@@ -1,6 +1,8 @@
 body {
     background: url('../images/osen.jpg');
     padding-top: 10px;
+    max-width: 1800px;
+    margin: 0 auto;
 }
 
 .blok {
@@ -42,7 +44,7 @@ ul {
     font-size: 20px;
     float: right;
     width: 10%;
-    padding-right: 42px;
+    padding-right: 38px;
     height: 300px;
 }
 
