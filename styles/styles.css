@@ -1,7 +1,7 @@
 body {
     background: url('../images/osen.jpg');
     padding-top: 10px;
-    max-width: 1800px;
+    width: 1200px;
     margin: 0 auto;
 }
 
@@ -11,6 +11,10 @@ body {
     padding: 10px;
     text-align: center;
     font-size: 30px;
+    position: absolute;
+    top: 20px;
+    width: 1200px;
+    height: 25px;
 }
 
 a {
@@ -23,19 +27,25 @@ ul {
     border: 2px solid grey;
     font-size: 20px;
     float: left;
-    width: 10%;
+    width: 200px;
     margin: 0;
-    height: 300px;
+    height: 200px;
+    position: absolute;
+    top: 65px;
+    left: 360px;
 }
 
 .ruru {
     text-align: center;
-    width: 75%;
+    width: 735px;
     border: 2px solid black;
     font-size: 28px;
     display: inline-block;
     background: rgb(230, 208, 113);
-    height: 780px;
+    height: 850px;
+    position: absolute;
+    top: 65px;
+    left: 600px;
 }
 
 .ruru2 {
@@ -43,13 +53,21 @@ ul {
     border: 2px solid grey;
     font-size: 20px;
     float: right;
-    width: 10%;
+    width: 200px;
     padding-right: 38px;
-    height: 300px;
+    height: 200px;
+    position: absolute;
+    top: 65px;
+    right: 340px;
 }
 
 .ruru3 {
     text-align: center;
     border: 1px solid black;
     background: grey;
+    position: absolute;
+    bottom: 10px;
+    left: 360px;
+    width: 1200px;
+    height: 30px;
 }
