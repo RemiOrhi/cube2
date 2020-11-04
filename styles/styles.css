@@ -1,7 +1,6 @@
 body {
     background: url('../images/osen.jpg');
     padding-top: 10px;
-    
     width: 1200px;
     margin: 0 auto;
 }
@@ -13,10 +12,7 @@ body {
     padding: 10px;
     text-align: center;
     font-size: 30px;
-    /* position: absolute;
-    top: 20px; */
     width: 1200px;
-    /* height: 25px; */
 }
 
 .link {
@@ -33,9 +29,6 @@ body {
     width: 240px;
     margin: 0;
     height: 200px;
-    /* position: absolute;
-    top: 65px;
-    left: 360px; */
 }
 
 .verse {
@@ -47,10 +40,6 @@ body {
     display: inline-block;
     background: rgb(230, 208, 113);
     padding-bottom: 50px;
-    /* height: 850px; */
-    /* position: absolute;
-    top: 65px;
-    left: 600px; */
 }
 
 .description {
@@ -62,18 +51,10 @@ body {
     width: 240px;
     padding-right: 38px;
     height: 200px;
-    /* position: absolute;
-    top: 65px;
-    right: 340px; */
 }
 
 .footer {
     text-align: center;
     border: 1px solid black;
     background: grey;
-    /* position: absolute;
-    bottom: 10px;
-    left: 360px; */
-    /* width: 1200px;
-    height: 30px; */
 }
