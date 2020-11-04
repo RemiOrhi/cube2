@@ -1,73 +1,79 @@
 body {
     background: url('../images/osen.jpg');
     padding-top: 10px;
+    
     width: 1200px;
     margin: 0 auto;
 }
 
-.blok {
+.block {
     background: rgb(103, 105, 107);
+    box-sizing: border-box;
     border: 1px solid black;
     padding: 10px;
     text-align: center;
     font-size: 30px;
-    position: absolute;
-    top: 20px;
+    /* position: absolute;
+    top: 20px; */
     width: 1200px;
-    height: 25px;
+    /* height: 25px; */
 }
 
-a {
+.link {
     color: black;
 }
 
-ul {
+.menu {
     background: rgb(104, 141, 104);
     list-style-type: none;
+    box-sizing: border-box;
     border: 2px solid grey;
     font-size: 20px;
     float: left;
-    width: 200px;
+    width: 240px;
     margin: 0;
     height: 200px;
-    position: absolute;
+    /* position: absolute;
     top: 65px;
-    left: 360px;
+    left: 360px; */
 }
 
-.ruru {
+.verse {
     text-align: center;
-    width: 735px;
+    box-sizing: border-box;
+    width: 720px;
     border: 2px solid black;
     font-size: 28px;
     display: inline-block;
     background: rgb(230, 208, 113);
-    height: 850px;
-    position: absolute;
+    padding-bottom: 50px;
+    /* height: 850px; */
+    /* position: absolute;
     top: 65px;
-    left: 600px;
+    left: 600px; */
 }
 
-.ruru2 {
+.description {
     background: rgb(104, 141, 104);
+    box-sizing: border-box;
     border: 2px solid grey;
     font-size: 20px;
     float: right;
-    width: 200px;
+    width: 240px;
     padding-right: 38px;
     height: 200px;
-    position: absolute;
+    /* position: absolute;
     top: 65px;
-    right: 340px;
+    right: 340px; */
 }
 
-.ruru3 {
+.footer {
     text-align: center;
     border: 1px solid black;
     background: grey;
-    position: absolute;
+    /* position: absolute;
     bottom: 10px;
-    left: 360px;
-    width: 1200px;
-    height: 30px;
+    left: 360px; */
+    /* width: 1200px;
+    height: 30px; */
 }
